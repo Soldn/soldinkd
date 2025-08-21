@@ -1,8 +1,0 @@
-name: KDSoldinAddon
-main: me.kdsoldin.kdsoldinaddon.KDSoldinAddon
-version: 1.0
-api-version: 1.16
-commands:
-  kdsreload:
-    description: Перезагрузить конфиг плагина
-    permission: kds.reload
