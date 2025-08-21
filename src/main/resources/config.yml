@@ -1,0 +1,8 @@
+# Разработчик плагина: Soldi_n
+cooldowns:
+  ENDER_PEARL: 4
+  CHORUS_FRUIT: 10
+  ENCHANTED_GOLDEN_APPLE: 15
+
+messages:
+  cooldown: "&cИспользовать этот предмет можно будет через %time% сек."
